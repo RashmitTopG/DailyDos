@@ -1,4 +1,19 @@
 3rd January :
 
 LeetCode Daily 1411
+JSP Servlet Login 
 
+4th January :
+
+LeetCode Daily 1390
+JSP Servlet Login Using JDBC
+
+5th January :
+
+GFG POTD Maximum Sum Subarray of Size K
+LeetCode 3798
+Harkirat AWS 
+
+6th January :
+
+GFG POTD Maximum XOR Subarray of Size K
