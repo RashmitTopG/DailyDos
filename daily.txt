@@ -17,3 +17,9 @@ Harkirat AWS
 6th January :
 
 GFG POTD Maximum XOR Subarray of Size K
+LeetCode POTD 1161
+AWS Deploy Frontend {Lund Not Understood Do someday Again}
+
+7th January :
+
+GFG POTD Count distinct elements in every window
