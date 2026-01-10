@@ -27,4 +27,13 @@ Harkirat Course Selling App Backend Half
 
 8th January : 
 
-Harkirat Course Selling App Backend 75%
+Harkirat Course Selling App Backend 70%
+
+9th January : 
+
+LeetCode POTD 865
+Harkirat Course Selling App Backend 85%
+
+10th January
+
+LeetCode POTD 712
