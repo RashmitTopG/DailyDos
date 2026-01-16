@@ -47,4 +47,19 @@ Harkirat Course Selling App Backend Complete
 
 GFG POTD K Sized Subarray Maximum 
 
+13th January :
+
+Harkirat Second_Brain Part 1
+
+14th January :
+
+Harkirat Second_Brain FrontEnd Button
+
+15th January :
+
+Harkiart Second_Brain Backend Done
+
+16th January :
+
+Harkirat WebSockets Half
 
